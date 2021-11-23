@@ -1,0 +1,788 @@
+2010-10-06 09:02:10,357 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19537 } (encoding depth = 1): { DocumentStatus: 19537 }
+2010-10-06 09:02:10,365 [WorkerThread-12] INFO  [ServerSession]: Processing command object: {arguments=[2, 365], type=request, name=getEntity}
+2010-10-06 09:02:10,498 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:02:10,498 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:10,498 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:02:10,498 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 3): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:10,498 [WorkerThread-12] INFO  [ServiceProvider]: Executing request getEntity with arguments [2, 365] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.EntityService@707e707e }
+2010-10-06 09:02:10,498 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentStatus - 8 } (encoding depth = 2): null
+2010-10-06 09:02:10,385 [WorkerThread-1] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:02:10,498 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19538 } (encoding depth = 1): { DocumentStatus: 19538 }
+2010-10-06 09:02:10,498 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentStatus - 7 } (encoding depth = 2): null
+2010-10-06 09:02:10,500 [WorkerThread-12] INFO  [ServiceProvider]: Service getEntity returned { SupplierImpl: 365 }
+2010-10-06 09:02:10,500 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.SupplierImpl - 365 } (encoding depth = 0): { SupplierImpl: 365 }
+2010-10-06 09:02:10,500 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:10,500 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:10,500 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): Vilverstraat 11, 3650 Dilsen-Stokkem, B
+2010-10-06 09:02:10,503 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:02:10,503 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@67426742
+2010-10-06 09:02:10,506 [WorkerThread-0] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:02:10,506 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664599 } (encoding depth = 1): { DocumentProperty: 664599 }
+2010-10-06 09:02:10,506 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentProperty - 109 } (encoding depth = 2): null
+2010-10-06 09:02:10,506 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664601 } (encoding depth = 1): { DocumentProperty: 664601 }
+2010-10-06 09:02:10,506 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentProperty - 77 } (encoding depth = 2): null
+2010-10-06 09:02:10,506 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664600 } (encoding depth = 1): { DocumentProperty: 664600 }
+2010-10-06 09:02:10,507 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentProperty - 24 } (encoding depth = 2): null
+2010-10-06 09:02:10,507 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:02:10,511 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19537 } (encoding depth = 1): null
+2010-10-06 09:02:10,511 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19538 } (encoding depth = 1): null
+2010-10-06 09:02:10,513 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:10,513 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:10,515 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:02:10,515 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@37493749
+2010-10-06 09:02:10,518 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664599 } (encoding depth = 1): null
+2010-10-06 09:02:10,518 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664601 } (encoding depth = 1): null
+2010-10-06 09:02:10,518 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664600 } (encoding depth = 1): null
+2010-10-06 09:02:10,518 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:02:10,595 [WorkerThread-19] INFO  [ServerSession]: Processing command object: {arguments=[2, 365], type=request, name=getEntity}
+2010-10-06 09:02:10,595 [WorkerThread-19] INFO  [ServiceProvider]: Executing request getEntity with arguments [2, 365] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.EntityService@707e707e }
+2010-10-06 09:02:10,596 [WorkerThread-19] INFO  [ServiceProvider]: Service getEntity returned { SupplierImpl: 365 }
+2010-10-06 09:02:10,596 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.SupplierImpl - 365 } (encoding depth = 0): { SupplierImpl: 365 }
+2010-10-06 09:02:10,596 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:10,596 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:10,596 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): Vilverstraat 11, 3650 Dilsen-Stokkem, B
+2010-10-06 09:02:11,131 [WorkerThread-13] INFO  [ServerSession]: Posting event: rendering##1286373729338-5317##finished
+2010-10-06 09:02:11,345 [WorkerThread-10] INFO  [ServerSession]: Posting event: rendering##1286373729338-5317##finished
+2010-10-06 09:02:11,451 [WorkerThread-7] INFO  [ServerSession]: Posting event: rendering##1286373729338-5317##finished
+2010-10-06 09:02:11,538 [WorkerThread-4] INFO  [ServerSession]: Processing command object: {arguments=[1286373729338-5317], type=request, name=getRendering}
+2010-10-06 09:02:11,550 [WorkerThread-4] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373729338-5317] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:02:11,550 [WorkerThread-4] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373729338-5317 }
+2010-10-06 09:02:11,550 [WorkerThread-4] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373729338-5317 }
+2010-10-06 09:02:11,550 [WorkerThread-4] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@335e335e
+2010-10-06 09:02:12,767 [WorkerThread-17] INFO  [ServerSession]: Processing command object: {prop=marks, class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:02:13,541 [WorkerThread-3] INFO  [ServerSession]: Processing command object: {arguments=[114466], type=request, name=getPageCount}
+2010-10-06 09:02:13,601 [WorkerThread-3] INFO  [ServiceProvider]: Executing request getPageCount with arguments [114466] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:02:13,618 [WorkerThread-3] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:02:13,618 [WorkerThread-3] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/44/doc-66
+2010-10-06 09:02:13,623 [WorkerThread-15] INFO  [TcpClient]: Received reply for stream 8524: 1
+2010-10-06 09:02:13,623 [WorkerThread-3] INFO  [ServiceProvider]: Service getPageCount returned 1
+2010-10-06 09:02:13,631 [WorkerThread-2] INFO  [ServerSession]: Processing command object: {arguments=[114466, 0], type=request, name=startRendering}
+2010-10-06 09:02:13,631 [WorkerThread-2] INFO  [ServiceProvider]: Executing request startRendering with arguments [114466, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:02:13,634 [WorkerThread-2] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373733634-5423 }
+2010-10-06 09:02:13,634 [WorkerThread-2] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373733634-5423 }
+2010-10-06 09:02:13,634 [WorkerThread-2] INFO  [ServiceProvider]: Service startRendering returned 1286373733634-5423
+2010-10-06 09:02:13,635 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373733634-5423 }
+2010-10-06 09:02:13,635 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373733634-5423 }
+2010-10-06 09:02:13,636 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:02:13,636 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:02:14,321 [WorkerThread-1] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:02:14,531 [WorkerThread-12] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:02:14,637 [WorkerThread-5] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:02:14,764 [WorkerThread-0] INFO  [ServerSession]: Processing command object: {arguments=[1286373733634-5423], type=request, name=getRendering}
+2010-10-06 09:02:14,825 [WorkerThread-0] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373733634-5423] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:02:14,826 [WorkerThread-0] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373733634-5423 }
+2010-10-06 09:02:14,826 [WorkerThread-0] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373733634-5423 }
+2010-10-06 09:02:14,846 [WorkerThread-0] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@4bdc4bdc
+2010-10-06 09:02:50,269 [AthenaTimer] WARN  [ReleaseLockedDocumentsTask]: Found 1 locked documents
+2010-10-06 09:02:50,272 [AthenaTimer] DEBUG [ReleaseLockedDocumentsTask]: Unlocking: { Document: 114466 } (locked by 3 since 2010-10-06 09:02:09.0)
+2010-10-06 09:02:50,461 [WorkerThread-13] INFO  [ServerSession]: Posting event: update##com.dn.gaverzicht.dms.models.Document##114466
+2010-10-06 09:02:50,569 [WorkerThread-10] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:02:50,571 [WorkerThread-7] INFO  [ServerSession]: Posting event: update##com.dn.gaverzicht.dms.models.Document##114466
+2010-10-06 09:02:50,580 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19538 } (encoding depth = 1): null
+2010-10-06 09:02:50,582 [WorkerThread-6] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:02:50,586 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19537 } (encoding depth = 1): null
+2010-10-06 09:02:50,589 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:50,589 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:50,592 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:02:50,592 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@645d645d
+2010-10-06 09:02:50,592 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19537 } (encoding depth = 1): null
+2010-10-06 09:02:50,592 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19538 } (encoding depth = 1): null
+2010-10-06 09:02:50,594 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:50,594 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:50,595 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664599 } (encoding depth = 1): null
+2010-10-06 09:02:50,595 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664600 } (encoding depth = 1): null
+2010-10-06 09:02:50,595 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664601 } (encoding depth = 1): null
+2010-10-06 09:02:50,595 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:02:50,597 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:02:50,597 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@309e309e
+2010-10-06 09:02:50,600 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664599 } (encoding depth = 1): null
+2010-10-06 09:02:50,600 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664600 } (encoding depth = 1): null
+2010-10-06 09:02:50,600 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664601 } (encoding depth = 1): null
+2010-10-06 09:02:50,600 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:02:51,331 [WorkerThread-4] INFO  [ServerSession]: Posting event: update##com.dn.gaverzicht.dms.models.Document##114466
+2010-10-06 09:02:51,342 [WorkerThread-16] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:02:51,364 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19538 } (encoding depth = 1): null
+2010-10-06 09:02:51,364 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19537 } (encoding depth = 1): null
+2010-10-06 09:02:51,366 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:51,366 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:02:51,369 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:02:51,369 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@42524252
+2010-10-06 09:02:51,373 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664601 } (encoding depth = 1): null
+2010-10-06 09:02:51,373 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664600 } (encoding depth = 1): null
+2010-10-06 09:02:51,373 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664599 } (encoding depth = 1): null
+2010-10-06 09:02:51,373 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:02:57,834 [WorkerThread-4] INFO  [ServerSession]: Processing command object: {prop=marks, class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:03:05,865 [WorkerThread-17] INFO  [ServerSession]: Processing command object: {arguments=[114466, 0], type=request, name=startRendering}
+2010-10-06 09:03:05,869 [WorkerThread-17] INFO  [ServiceProvider]: Executing request startRendering with arguments [114466, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:05,873 [WorkerThread-17] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373785873-3536 }
+2010-10-06 09:03:05,873 [WorkerThread-17] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373785873-3536 }
+2010-10-06 09:03:05,873 [WorkerThread-17] INFO  [ServiceProvider]: Service startRendering returned 1286373785873-3536
+2010-10-06 09:03:05,874 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373785873-3536 }
+2010-10-06 09:03:05,874 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373785873-3536 }
+2010-10-06 09:03:05,874 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:03:05,874 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:03:06,221 [WorkerThread-8] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:03:06,431 [WorkerThread-9] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:03:06,537 [WorkerThread-18] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:03:06,547 [WorkerThread-15] INFO  [ServerSession]: Processing command object: {arguments=[1286373785873-3536], type=request, name=getRendering}
+2010-10-06 09:03:06,547 [WorkerThread-15] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373785873-3536] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:06,547 [WorkerThread-15] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373785873-3536 }
+2010-10-06 09:03:06,547 [WorkerThread-15] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373785873-3536 }
+2010-10-06 09:03:06,547 [WorkerThread-15] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@71027102
+2010-10-06 09:03:08,839 [WorkerThread-13] INFO  [ServerSession]: Processing command object: {arguments=[352996], type=request, name=getCustomerByNumber}
+2010-10-06 09:03:08,949 [WorkerThread-13] INFO  [ServiceProvider]: Executing request getCustomerByNumber with arguments [352996] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.EntityService@707e707e }
+2010-10-06 09:03:09,020 [WorkerThread-13] INFO  [ServiceProvider]: Service getCustomerByNumber returned Jean-Maurice Lecuyer
+2010-10-06 09:03:09,029 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.CustomerImpl - 487947 } (encoding depth = 0): Jean-Maurice Lecuyer
+2010-10-06 09:03:09,029 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:09,029 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:09,029 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): 19/21 Rue Hegel App.51, 59000 Lille, F
+2010-10-06 09:03:09,048 [WorkerThread-7] INFO  [ServerSession]: Processing command object: {arguments=[GAV], type=request, name=getStoreByCode}
+2010-10-06 09:03:09,048 [WorkerThread-7] INFO  [ServiceProvider]: Executing request getStoreByCode with arguments [GAV] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:09,049 [WorkerThread-7] INFO  [ServiceProvider]: Service getStoreByCode returned { StoreImpl: 1 }
+2010-10-06 09:03:09,049 [WorkerThread-7] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 0): null
+2010-10-06 09:03:09,056 [WorkerThread-10] INFO  [ServerSession]: Processing command object: {arguments=[Ordermap, 352996/1, { StoreImpl: 1 }], type=request, name=getDocumentGroup}
+2010-10-06 09:03:09,056 [WorkerThread-10] INFO  [ServiceProvider]: Executing request getDocumentGroup with arguments [Ordermap, 352996/1, { StoreImpl: 1 }] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:09,062 [WorkerThread-10] INFO  [ServiceProvider]: Service getDocumentGroup returned { DocumentGroup: 254003 }
+2010-10-06 09:03:09,062 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 254003 } (encoding depth = 0): { DocumentGroup: 254003 }
+2010-10-06 09:03:09,062 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:03:09,062 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:09,062 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:09,062 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentGroup - 2 } (encoding depth = 1): null
+2010-10-06 09:03:26,725 [WorkerThread-15] INFO  [ServerSession]: Processing command object: {arguments=[114466], type=request, name=getPageCount}
+2010-10-06 09:03:26,727 [WorkerThread-15] INFO  [ServiceProvider]: Executing request getPageCount with arguments [114466] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:26,733 [WorkerThread-15] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:03:26,745 [WorkerThread-15] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/44/doc-66
+2010-10-06 09:03:26,749 [WorkerThread-2] INFO  [TcpClient]: Received reply for stream 8526: 1
+2010-10-06 09:03:26,761 [WorkerThread-15] INFO  [ServiceProvider]: Service getPageCount returned 1
+2010-10-06 09:03:26,774 [WorkerThread-12] INFO  [ServerSession]: Processing command object: {arguments=[114466, 0], type=request, name=startRendering}
+2010-10-06 09:03:26,774 [WorkerThread-12] INFO  [ServiceProvider]: Executing request startRendering with arguments [114466, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:26,777 [WorkerThread-12] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373806777-5552 }
+2010-10-06 09:03:26,777 [WorkerThread-12] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373806777-5552 }
+2010-10-06 09:03:26,777 [WorkerThread-12] INFO  [ServiceProvider]: Service startRendering returned 1286373806777-5552
+2010-10-06 09:03:26,777 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373806777-5552 }
+2010-10-06 09:03:26,778 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373806777-5552 }
+2010-10-06 09:03:26,778 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:03:26,778 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:03:27,487 [WorkerThread-5] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:03:27,696 [WorkerThread-19] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:03:27,801 [WorkerThread-0] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:03:27,928 [WorkerThread-13] INFO  [ServerSession]: Processing command object: {arguments=[1286373806777-5552], type=request, name=getRendering}
+2010-10-06 09:03:27,985 [WorkerThread-13] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373806777-5552] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:27,985 [WorkerThread-13] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373806777-5552 }
+2010-10-06 09:03:27,985 [WorkerThread-13] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373806777-5552 }
+2010-10-06 09:03:27,985 [WorkerThread-13] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@2cda2cda
+2010-10-06 09:03:55,083 [WorkerThread-5] INFO  [ServerSession]: Processing command object: {arguments=[{ UserImpl: 3 }], type=request, name=updateUserImpl}
+2010-10-06 09:03:55,093 [WorkerThread-5] INFO  [ServiceProvider]: Executing request updateUserImpl with arguments [{ UserImpl: 3 }] on service object com.dn.athena.app.services.CrudService@71b471b4
+2010-10-06 09:03:55,093 [WorkerThread-5] INFO  [ServiceProvider]: Service updateUserImpl returned null
+2010-10-06 09:03:55,115 [WorkerThread-19] INFO  [ServerSession]: Processing command object: {arguments=[{ Document: 114466 }], type=request, name=updateDocument}
+2010-10-06 09:03:55,127 [WorkerThread-19] INFO  [ServiceProvider]: Executing request updateDocument with arguments [{ Document: 114466 }] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:55,129 [WorkerThread-19] INFO  [ServiceProvider]: Service updateDocument returned null
+2010-10-06 09:03:55,251 [WorkerThread-0] INFO  [ServerSession]: Posting event group of size: 11
+2010-10-06 09:03:55,471 [WorkerThread-7] INFO  [ServerSession]: Posting event group of size: 11
+2010-10-06 09:03:55,569 [WorkerThread-13] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:03:55,581 [WorkerThread-10] INFO  [ServerSession]: Posting event group of size: 11
+2010-10-06 09:03:55,617 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19538 } (encoding depth = 1): null
+2010-10-06 09:03:55,618 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19537 } (encoding depth = 1): null
+2010-10-06 09:03:55,620 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.EntityLink - 39235 } (encoding depth = 1): { EntityLink: 39235 }
+2010-10-06 09:03:55,620 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,620 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 3): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,620 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): com.dn.gaverzicht.dms.models.EntityReference@3be13be1
+2010-10-06 09:03:55,620 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 254003 } (encoding depth = 1): { DocumentGroup: 254003 }
+2010-10-06 09:03:55,621 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 2): null
+2010-10-06 09:03:55,621 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentGroup - 2 } (encoding depth = 2): null
+2010-10-06 09:03:55,623 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@614c614c
+2010-10-06 09:03:55,625 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664600 } (encoding depth = 1): null
+2010-10-06 09:03:55,625 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664601 } (encoding depth = 1): null
+2010-10-06 09:03:55,625 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664599 } (encoding depth = 1): null
+2010-10-06 09:03:55,625 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:03:55,628 [WorkerThread-6] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:03:55,631 [WorkerThread-4] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:03:55,637 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19537 } (encoding depth = 1): null
+2010-10-06 09:03:55,637 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19538 } (encoding depth = 1): null
+2010-10-06 09:03:55,647 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19538 } (encoding depth = 1): null
+2010-10-06 09:03:55,647 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19537 } (encoding depth = 1): null
+2010-10-06 09:03:55,649 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.EntityLink - 39235 } (encoding depth = 1): { EntityLink: 39235 }
+2010-10-06 09:03:55,650 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,650 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 3): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,650 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): com.dn.gaverzicht.dms.models.EntityReference@7b3a7b3a
+2010-10-06 09:03:55,650 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.EntityLink - 39235 } (encoding depth = 1): { EntityLink: 39235 }
+2010-10-06 09:03:55,650 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 254003 } (encoding depth = 1): { DocumentGroup: 254003 }
+2010-10-06 09:03:55,650 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,650 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 3): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,650 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): com.dn.gaverzicht.dms.models.EntityReference@60956095
+2010-10-06 09:03:55,650 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 254003 } (encoding depth = 1): null
+2010-10-06 09:03:55,650 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 2): null
+2010-10-06 09:03:55,650 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentGroup - 2 } (encoding depth = 2): null
+2010-10-06 09:03:55,652 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@3fe93fe9
+2010-10-06 09:03:55,653 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:03:55,653 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@2ab32ab3
+2010-10-06 09:03:55,655 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664600 } (encoding depth = 1): null
+2010-10-06 09:03:55,655 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664599 } (encoding depth = 1): null
+2010-10-06 09:03:55,655 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664601 } (encoding depth = 1): null
+2010-10-06 09:03:55,655 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:03:55,656 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664599 } (encoding depth = 1): null
+2010-10-06 09:03:55,656 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664601 } (encoding depth = 1): null
+2010-10-06 09:03:55,656 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664600 } (encoding depth = 1): null
+2010-10-06 09:03:55,656 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:03:55,676 [WorkerThread-16] INFO  [ServerSession]: Processing command object: {arguments=[1, 487947], type=request, name=getEntity}
+2010-10-06 09:03:55,676 [WorkerThread-16] INFO  [ServiceProvider]: Executing request getEntity with arguments [1, 487947] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.EntityService@707e707e }
+2010-10-06 09:03:55,677 [WorkerThread-16] INFO  [ServiceProvider]: Service getEntity returned Jean-Maurice Lecuyer
+2010-10-06 09:03:55,677 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.CustomerImpl - 487947 } (encoding depth = 0): null
+2010-10-06 09:03:55,693 [WorkerThread-14] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.DocumentMark, type=get, key=40046}
+2010-10-06 09:03:55,769 [WorkerThread-17] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.DocumentMark, type=get, key=40046}
+2010-10-06 09:03:55,702 [WorkerThread-11] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.DocumentMark, type=get, key=40046}
+2010-10-06 09:03:55,872 [WorkerThread-14] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,925 [WorkerThread-14] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,925 [WorkerThread-14] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.Document - 114466 } (encoding depth = 1): null
+2010-10-06 09:03:55,932 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,932 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,932 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,932 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,932 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.Document - 114466 } (encoding depth = 1): null
+2010-10-06 09:03:55,932 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.Document - 114466 } (encoding depth = 1): null
+2010-10-06 09:03:55,940 [WorkerThread-8] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.UserImpl, type=get, key=3}
+2010-10-06 09:03:55,941 [WorkerThread-8] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,951 [WorkerThread-8] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,957 [WorkerThread-9] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.DocumentMark, type=get, key=40047}
+2010-10-06 09:03:55,959 [WorkerThread-18] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.DocumentMark, type=get, key=40047}
+2010-10-06 09:03:55,962 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,962 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,962 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.Document - 114466 } (encoding depth = 1): null
+2010-10-06 09:03:55,964 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,964 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,964 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.Document - 114466 } (encoding depth = 1): null
+2010-10-06 09:03:55,976 [WorkerThread-3] INFO  [ServerSession]: Processing command object: {prop=marks, class=com.dn.gaverzicht.dms.models.Document, type=get, key=114466}
+2010-10-06 09:03:55,981 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40048 } (encoding depth = 0): { DocumentMark: 40048 }
+2010-10-06 09:03:55,981 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,981 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:55,981 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.Document - 114466 } (encoding depth = 1): null
+2010-10-06 09:03:55,981 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40047 } (encoding depth = 0): { DocumentMark: 40047 }
+2010-10-06 09:03:55,981 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40046 } (encoding depth = 0): null
+2010-10-06 09:03:55,994 [WorkerThread-2] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.DocumentMark, type=get, key=40048}
+2010-10-06 09:03:55,995 [WorkerThread-15] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.DocumentMark, type=get, key=40048}
+2010-10-06 09:03:56,176 [WorkerThread-2] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:56,232 [WorkerThread-2] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:56,232 [WorkerThread-2] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.Document - 114466 } (encoding depth = 1): null
+2010-10-06 09:03:56,238 [WorkerThread-15] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:56,238 [WorkerThread-15] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:56,238 [WorkerThread-15] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.Document - 114466 } (encoding depth = 1): null
+2010-10-06 09:03:57,514 [WorkerThread-0] INFO  [ServerSession]: Processing command object: {arguments=[com.dn.gaverzicht.dms.models.TypeDocument], type=request, name=getAll}
+2010-10-06 09:03:57,574 [WorkerThread-0] INFO  [ServiceProvider]: Executing request getAll with arguments [com.dn.gaverzicht.dms.models.TypeDocument] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.AuthenticationService@59c859c8 }
+2010-10-06 09:03:57,581 [WorkerThread-0] INFO  [ServiceProvider]: Service getAll returned java.util.ArrayList of size 41
+2010-10-06 09:03:57,609 [WorkerThread-10] INFO  [ServerSession]: Processing command object: {arguments=[com.dn.gaverzicht.dms.models.StoreImpl], type=request, name=getAll}
+2010-10-06 09:03:57,611 [WorkerThread-10] INFO  [ServiceProvider]: Executing request getAll with arguments [com.dn.gaverzicht.dms.models.StoreImpl] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.AuthenticationService@59c859c8 }
+2010-10-06 09:03:57,611 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 2 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 6 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 13 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 17 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 19 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 20 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 22 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 25 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 27 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 28 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 31 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 33 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 35 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 36 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 37 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 42 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 44 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 45 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 49 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 50 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 51 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 53 } (encoding depth = 0): null
+2010-10-06 09:03:57,612 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 54 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 55 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 56 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 59 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 60 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 61 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 62 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 64 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 65 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 67 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 68 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 69 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 70 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 72 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 76 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 77 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-10] INFO  [ServiceProvider]: Service getAll returned [{ StoreImpl: 1 }, { StoreImpl: 2 }, { StoreImpl: 4 }]
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 78 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 0): null
+2010-10-06 09:03:57,609 [WorkerThread-13] INFO  [ServerSession]: Processing command object: {arguments=[114273], type=request, name=getPageCount}
+2010-10-06 09:03:57,613 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 2 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-13] INFO  [ServiceProvider]: Executing request getPageCount with arguments [114273] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:57,613 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 4 } (encoding depth = 0): null
+2010-10-06 09:03:57,613 [WorkerThread-0] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 80 } (encoding depth = 0): null
+2010-10-06 09:03:57,617 [WorkerThread-13] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:03:57,617 [WorkerThread-13] DEBUG [RenderClient]: Uploading file files/documents/11/42/doc-73 using uid 1286373837617
+2010-10-06 09:03:57,618 [WorkerThread-13] DEBUG [RenderClient]: File 1286373837617 uploaded
+2010-10-06 09:03:57,627 [WorkerThread-6] INFO  [TcpClient]: Received reply for stream 8530: 2
+2010-10-06 09:03:57,627 [WorkerThread-13] INFO  [ServiceProvider]: Service getPageCount returned 2
+2010-10-06 09:03:57,833 [WorkerThread-14] INFO  [ServerSession]: Processing command object: {arguments=[114273, 0], type=request, name=startRendering}
+2010-10-06 09:03:57,879 [WorkerThread-14] INFO  [ServiceProvider]: Executing request startRendering with arguments [114273, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:57,895 [WorkerThread-14] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373837895-7889 }
+2010-10-06 09:03:57,895 [WorkerThread-14] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373837895-7889 }
+2010-10-06 09:03:57,895 [WorkerThread-14] INFO  [ServiceProvider]: Service startRendering returned 1286373837895-7889
+2010-10-06 09:03:57,895 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373837895-7889 }
+2010-10-06 09:03:57,899 [WorkerThread-11] INFO  [TcpClient]: Received reply for stream 8532: true
+2010-10-06 09:03:57,899 [RenderingQueue] DEBUG [CachedPdfRenderer]: Rendering all document pages at once
+2010-10-06 09:03:57,899 [RenderingQueue] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:03:57,899 [RenderingQueue] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/42/doc-73
+2010-10-06 09:03:57,902 [WorkerThread-17] INFO  [ServerSession]: Processing command object: {arguments=[114273, 3], type=request, name=lockDocument}
+2010-10-06 09:03:57,902 [WorkerThread-17] INFO  [ServiceProvider]: Executing request lockDocument with arguments [114273, 3] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:57,903 [WorkerThread-8] INFO  [TcpClient]: Received reply for stream 8534: 2
+2010-10-06 09:03:57,903 [RenderingQueue] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:03:57,903 [RenderingQueue] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/42/doc-73
+2010-10-06 09:03:57,907 [WorkerThread-17] INFO  [ServiceProvider]: Service lockDocument returned null
+2010-10-06 09:03:58,214 [WorkerThread-9] INFO  [ServerSession]: Processing command object: {arguments=[114273, 0], type=request, name=startRendering}
+2010-10-06 09:03:58,214 [WorkerThread-9] INFO  [ServiceProvider]: Executing request startRendering with arguments [114273, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:58,218 [WorkerThread-9] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373838218-5144 }
+2010-10-06 09:03:58,218 [WorkerThread-9] DEBUG [RenderingQueue]: Found existing command: { RenderingCommand - uid: 1286373837895-7889 }
+2010-10-06 09:03:58,218 [WorkerThread-9] INFO  [ServiceProvider]: Service startRendering returned 1286373837895-7889
+2010-10-06 09:03:58,441 [WorkerThread-18] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:03:58,451 [WorkerThread-3] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114273}
+2010-10-06 09:03:58,456 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19432 } (encoding depth = 1): { DocumentStatus: 19432 }
+2010-10-06 09:03:58,456 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,456 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 3): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,456 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentStatus - 8 } (encoding depth = 2): null
+2010-10-06 09:03:58,456 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19433 } (encoding depth = 1): { DocumentStatus: 19433 }
+2010-10-06 09:03:58,456 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentStatus - 7 } (encoding depth = 2): null
+2010-10-06 09:03:58,461 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:03:58,461 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@2cd92cd9
+2010-10-06 09:03:58,464 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664229 } (encoding depth = 1): { DocumentProperty: 664229 }
+2010-10-06 09:03:58,464 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentProperty - 109 } (encoding depth = 2): null
+2010-10-06 09:03:58,464 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664230 } (encoding depth = 1): { DocumentProperty: 664230 }
+2010-10-06 09:03:58,464 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentProperty - 77 } (encoding depth = 2): null
+2010-10-06 09:03:58,464 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664231 } (encoding depth = 1): { DocumentProperty: 664231 }
+2010-10-06 09:03:58,464 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentProperty - 24 } (encoding depth = 2): null
+2010-10-06 09:03:58,464 [WorkerThread-3] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:03:58,502 [WorkerThread-2] INFO  [ServerSession]: Processing command object: {arguments=[2, 384], type=request, name=getEntity}
+2010-10-06 09:03:58,641 [RenderingQueue] DEBUG [CachedPdfRenderer]: Storing cached rendering for { Document: 114273 }
+2010-10-06 09:03:58,644 [WorkerThread-2] INFO  [ServiceProvider]: Executing request getEntity with arguments [2, 384] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.EntityService@707e707e }
+2010-10-06 09:03:58,655 [WorkerThread-1] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:03:58,650 [RenderingQueue] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:03:58,702 [RenderingQueue] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/42/doc-73
+2010-10-06 09:03:58,703 [WorkerThread-2] INFO  [ServiceProvider]: Service getEntity returned { SupplierImpl: 384 }
+2010-10-06 09:03:58,710 [WorkerThread-5] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114273}
+2010-10-06 09:03:58,719 [WorkerThread-2] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.SupplierImpl - 384 } (encoding depth = 0): { SupplierImpl: 384 }
+2010-10-06 09:03:58,707 [WorkerThread-12] INFO  [TcpClient]: Received reply for stream 8538: 2
+2010-10-06 09:03:58,719 [WorkerThread-2] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,720 [WorkerThread-2] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,720 [WorkerThread-2] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): Postfach 1340, 33121 Delbruck, D
+2010-10-06 09:03:58,720 [RenderingQueue] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:03:58,725 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19432 } (encoding depth = 1): { DocumentStatus: 19432 }
+2010-10-06 09:03:58,739 [RenderingQueue] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/42/doc-73
+2010-10-06 09:03:58,739 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,739 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 3): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,739 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentStatus - 8 } (encoding depth = 2): null
+2010-10-06 09:03:58,739 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19433 } (encoding depth = 1): { DocumentStatus: 19433 }
+2010-10-06 09:03:58,740 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentStatus - 7 } (encoding depth = 2): null
+2010-10-06 09:03:58,744 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:03:58,744 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@1bd31bd3
+2010-10-06 09:03:58,747 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664231 } (encoding depth = 1): { DocumentProperty: 664231 }
+2010-10-06 09:03:58,747 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentProperty - 24 } (encoding depth = 2): null
+2010-10-06 09:03:58,747 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664229 } (encoding depth = 1): { DocumentProperty: 664229 }
+2010-10-06 09:03:58,747 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentProperty - 109 } (encoding depth = 2): null
+2010-10-06 09:03:58,747 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664230 } (encoding depth = 1): { DocumentProperty: 664230 }
+2010-10-06 09:03:58,747 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocumentProperty - 77 } (encoding depth = 2): null
+2010-10-06 09:03:58,747 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:03:58,747 [RenderingQueue] DEBUG [CachedPdfRenderer]: Storing cached rendering for { Document: 114273 }
+2010-10-06 09:03:58,761 [WorkerThread-7] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:03:58,769 [WorkerThread-10] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114273}
+2010-10-06 09:03:58,775 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19432 } (encoding depth = 1): null
+2010-10-06 09:03:58,790 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19433 } (encoding depth = 1): null
+2010-10-06 09:03:58,793 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,793 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,795 [RenderingQueue] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:03:58,796 [RenderingQueue] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/42/doc-73
+2010-10-06 09:03:58,796 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:03:58,796 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@7add7add
+2010-10-06 09:03:58,799 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664231 } (encoding depth = 1): null
+2010-10-06 09:03:58,799 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664229 } (encoding depth = 1): null
+2010-10-06 09:03:58,799 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664230 } (encoding depth = 1): null
+2010-10-06 09:03:58,799 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:03:58,801 [WorkerThread-0] INFO  [TcpClient]: Received reply for stream 8542: 2
+2010-10-06 09:03:58,801 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373837895-7889 }
+2010-10-06 09:03:58,801 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:03:58,801 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:03:58,828 [WorkerThread-4] INFO  [ServerSession]: Processing command object: {arguments=[2, 384], type=request, name=getEntity}
+2010-10-06 09:03:58,828 [WorkerThread-4] INFO  [ServiceProvider]: Executing request getEntity with arguments [2, 384] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.EntityService@707e707e }
+2010-10-06 09:03:58,829 [WorkerThread-4] INFO  [ServiceProvider]: Service getEntity returned { SupplierImpl: 384 }
+2010-10-06 09:03:58,829 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.SupplierImpl - 384 } (encoding depth = 0): { SupplierImpl: 384 }
+2010-10-06 09:03:58,829 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,829 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:03:58,829 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): Postfach 1340, 33121 Delbruck, D
+2010-10-06 09:03:59,469 [WorkerThread-6] INFO  [ServerSession]: Posting event: rendering##1286373837895-7889##finished
+2010-10-06 09:03:59,671 [WorkerThread-13] INFO  [ServerSession]: Posting event: rendering##1286373837895-7889##finished
+2010-10-06 09:03:59,781 [WorkerThread-16] INFO  [ServerSession]: Posting event: rendering##1286373837895-7889##finished
+2010-10-06 09:03:59,790 [WorkerThread-14] INFO  [ServerSession]: Processing command object: {arguments=[1286373837895-7889], type=request, name=getRendering}
+2010-10-06 09:03:59,790 [WorkerThread-14] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373837895-7889] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:03:59,790 [WorkerThread-14] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373837895-7889 }
+2010-10-06 09:03:59,790 [WorkerThread-14] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373837895-7889 }
+2010-10-06 09:03:59,790 [WorkerThread-14] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@52505250
+2010-10-06 09:04:01,269 [WorkerThread-18] INFO  [ServerSession]: Processing command object: {prop=marks, class=com.dn.gaverzicht.dms.models.Document, type=get, key=114273}
+2010-10-06 09:04:01,287 [WorkerThread-3] INFO  [ServerSession]: Processing command object: {arguments=[114273, 1], type=request, name=startRendering}
+2010-10-06 09:04:01,287 [WorkerThread-3] INFO  [ServiceProvider]: Executing request startRendering with arguments [114273, 1] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:01,290 [WorkerThread-3] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373841290-1204 }
+2010-10-06 09:04:01,290 [WorkerThread-3] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373841290-1204 }
+2010-10-06 09:04:01,290 [WorkerThread-3] INFO  [ServiceProvider]: Service startRendering returned 1286373841290-1204
+2010-10-06 09:04:01,290 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373841290-1204 }
+2010-10-06 09:04:01,291 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373841290-1204 }
+2010-10-06 09:04:01,291 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:04:01,291 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:04:01,601 [WorkerThread-15] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:01,812 [WorkerThread-1] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:01,921 [WorkerThread-12] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:01,929 [WorkerThread-2] INFO  [ServerSession]: Processing command object: {arguments=[114273], type=request, name=getPageCount}
+2010-10-06 09:04:01,929 [WorkerThread-2] INFO  [ServiceProvider]: Executing request getPageCount with arguments [114273] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:01,933 [WorkerThread-2] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:04:01,933 [WorkerThread-2] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/42/doc-73
+2010-10-06 09:04:01,938 [WorkerThread-19] INFO  [TcpClient]: Received reply for stream 8544: 2
+2010-10-06 09:04:01,938 [WorkerThread-2] INFO  [ServiceProvider]: Service getPageCount returned 2
+2010-10-06 09:04:01,940 [WorkerThread-5] INFO  [ServerSession]: Processing command object: {arguments=[1286373841290-1204], type=request, name=getRendering}
+2010-10-06 09:04:01,941 [WorkerThread-5] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373841290-1204] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:01,941 [WorkerThread-5] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373841290-1204 }
+2010-10-06 09:04:01,941 [WorkerThread-5] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373841290-1204 }
+2010-10-06 09:04:01,941 [WorkerThread-5] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@4ee44ee4
+2010-10-06 09:04:01,959 [WorkerThread-10] INFO  [ServerSession]: Processing command object: {arguments=[114273, 0], type=request, name=startRendering}
+2010-10-06 09:04:01,959 [WorkerThread-10] INFO  [ServiceProvider]: Executing request startRendering with arguments [114273, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:01,963 [WorkerThread-10] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373841963-3856 }
+2010-10-06 09:04:01,963 [WorkerThread-10] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373841963-3856 }
+2010-10-06 09:04:01,963 [WorkerThread-10] INFO  [ServiceProvider]: Service startRendering returned 1286373841963-3856
+2010-10-06 09:04:01,963 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373841963-3856 }
+2010-10-06 09:04:01,964 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373841963-3856 }
+2010-10-06 09:04:01,964 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:04:01,964 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:04:02,681 [WorkerThread-0] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:02,891 [WorkerThread-4] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:03,001 [WorkerThread-6] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:03,010 [WorkerThread-13] INFO  [ServerSession]: Processing command object: {arguments=[1286373841963-3856], type=request, name=getRendering}
+2010-10-06 09:04:03,010 [WorkerThread-13] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373841963-3856] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:03,010 [WorkerThread-13] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373841963-3856 }
+2010-10-06 09:04:03,010 [WorkerThread-13] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373841963-3856 }
+2010-10-06 09:04:03,010 [WorkerThread-13] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@7c107c10
+2010-10-06 09:04:03,964 [WorkerThread-14] INFO  [ServerSession]: Processing command object: {arguments=[114273, 1], type=request, name=startRendering}
+2010-10-06 09:04:04,025 [WorkerThread-14] INFO  [ServiceProvider]: Executing request startRendering with arguments [114273, 1] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:04,089 [WorkerThread-14] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373844089-8954 }
+2010-10-06 09:04:04,089 [WorkerThread-14] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373844089-8954 }
+2010-10-06 09:04:04,089 [WorkerThread-14] INFO  [ServiceProvider]: Service startRendering returned 1286373844089-8954
+2010-10-06 09:04:04,089 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373844089-8954 }
+2010-10-06 09:04:04,113 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373844089-8954 }
+2010-10-06 09:04:04,124 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:04:04,124 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:04:04,851 [WorkerThread-9] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:05,071 [WorkerThread-18] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:05,181 [WorkerThread-3] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:05,193 [WorkerThread-15] INFO  [ServerSession]: Processing command object: {arguments=[1286373844089-8954], type=request, name=getRendering}
+2010-10-06 09:04:05,193 [WorkerThread-15] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373844089-8954] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:05,193 [WorkerThread-15] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373844089-8954 }
+2010-10-06 09:04:05,193 [WorkerThread-15] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373844089-8954 }
+2010-10-06 09:04:05,193 [WorkerThread-15] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@1f9c1f9c
+2010-10-06 09:04:08,940 [WorkerThread-16] INFO  [ServerSession]: Processing command object: {arguments=[com.dn.gaverzicht.dms.filters.SupplierFilter@42424242], type=request, name=searchSuppliers}
+2010-10-06 09:04:08,999 [WorkerThread-16] INFO  [ServiceProvider]: Executing request searchSuppliers with arguments [com.dn.gaverzicht.dms.filters.SupplierFilter@42424242] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.SearchService@196e196e }
+2010-10-06 09:04:09,010 [WorkerThread-16] INFO  [ServiceProvider]: Service searchSuppliers returned [{ SupplierImpl: 1279 }]
+2010-10-06 09:04:09,012 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.SupplierImpl - 1279 } (encoding depth = 0): null
+2010-10-06 09:04:22,222 [WorkerThread-16] INFO  [ServerSession]: Processing command object: {arguments=[com.dn.gaverzicht.dms.filters.QuickFilter@51385138], type=request, name=searchQuick}
+2010-10-06 09:04:22,301 [WorkerThread-16] INFO  [ServiceProvider]: Executing request searchQuick with arguments [com.dn.gaverzicht.dms.filters.QuickFilter@51385138] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.SearchService@196e196e }
+2010-10-06 09:04:22,480 [WorkerThread-16] INFO  [ServiceProvider]: Service searchQuick returned [{ Document: 115392 }]
+2010-10-06 09:04:22,593 [WorkerThread-16] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.Document - 115392 } (encoding depth = 0): null
+2010-10-06 09:04:26,900 [WorkerThread-5] INFO  [ServerSession]: Processing command object: {arguments=[com.dn.gaverzicht.dms.models.StoreImpl], type=request, name=getAll}
+2010-10-06 09:04:27,017 [WorkerThread-5] INFO  [ServiceProvider]: Executing request getAll with arguments [com.dn.gaverzicht.dms.models.StoreImpl] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.AuthenticationService@59c859c8 }
+2010-10-06 09:04:27,021 [WorkerThread-0] INFO  [ServerSession]: Processing command object: {arguments=[115392], type=request, name=getPageCount}
+2010-10-06 09:04:27,021 [WorkerThread-10] INFO  [ServerSession]: Processing command object: {arguments=[com.dn.gaverzicht.dms.models.TypeDocument], type=request, name=getAll}
+2010-10-06 09:04:27,097 [WorkerThread-0] INFO  [ServiceProvider]: Executing request getPageCount with arguments [115392] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:27,097 [WorkerThread-10] INFO  [ServiceProvider]: Executing request getAll with arguments [com.dn.gaverzicht.dms.models.TypeDocument] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.AuthenticationService@59c859c8 }
+2010-10-06 09:04:27,084 [WorkerThread-5] INFO  [ServiceProvider]: Service getAll returned [{ StoreImpl: 1 }, { StoreImpl: 2 }, { StoreImpl: 4 }]
+2010-10-06 09:04:27,097 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 0): null
+2010-10-06 09:04:27,097 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 2 } (encoding depth = 0): null
+2010-10-06 09:04:27,097 [WorkerThread-5] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 4 } (encoding depth = 0): null
+2010-10-06 09:04:27,100 [WorkerThread-0] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:04:27,100 [WorkerThread-0] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/53/doc-92
+2010-10-06 09:04:27,101 [WorkerThread-10] INFO  [ServiceProvider]: Service getAll returned java.util.ArrayList of size 41
+2010-10-06 09:04:27,101 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 2 } (encoding depth = 0): null
+2010-10-06 09:04:27,101 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 0): null
+2010-10-06 09:04:27,101 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 6 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 13 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 17 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 19 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 20 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 22 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 25 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 27 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 28 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 31 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 33 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 35 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 36 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 37 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 42 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 44 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 45 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 49 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 50 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 51 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 53 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 54 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 55 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 56 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 59 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 60 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 61 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 62 } (encoding depth = 0): null
+2010-10-06 09:04:27,102 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 64 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 65 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 67 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 68 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 69 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 70 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 72 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 76 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 77 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 78 } (encoding depth = 0): null
+2010-10-06 09:04:27,103 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 80 } (encoding depth = 0): null
+2010-10-06 09:04:27,105 [WorkerThread-6] INFO  [TcpClient]: Received reply for stream 8546: 1
+2010-10-06 09:04:27,105 [WorkerThread-0] INFO  [ServiceProvider]: Service getPageCount returned 1
+2010-10-06 09:04:27,253 [WorkerThread-16] INFO  [ServerSession]: Processing command object: {arguments=[115392, 0], type=request, name=startRendering}
+2010-10-06 09:04:27,374 [WorkerThread-16] INFO  [ServiceProvider]: Executing request startRendering with arguments [115392, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:27,392 [WorkerThread-16] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373867392-5517 }
+2010-10-06 09:04:27,392 [WorkerThread-16] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373867392-5517 }
+2010-10-06 09:04:27,392 [WorkerThread-16] INFO  [ServiceProvider]: Service startRendering returned 1286373867392-5517
+2010-10-06 09:04:27,392 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373867392-5517 }
+2010-10-06 09:04:27,393 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373867392-5517 }
+2010-10-06 09:04:27,393 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:04:27,393 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:04:27,401 [WorkerThread-13] INFO  [ServerSession]: Processing command object: {arguments=[115392, 5], type=request, name=lockDocument}
+2010-10-06 09:04:27,401 [WorkerThread-13] INFO  [ServiceProvider]: Executing request lockDocument with arguments [115392, 5] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:27,405 [WorkerThread-13] INFO  [ServiceProvider]: Service lockDocument returned null
+2010-10-06 09:04:27,725 [WorkerThread-11] INFO  [ServerSession]: Processing command object: {arguments=[115392, 0], type=request, name=startRendering}
+2010-10-06 09:04:27,725 [WorkerThread-11] INFO  [ServiceProvider]: Executing request startRendering with arguments [115392, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:27,729 [WorkerThread-11] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373867729-7370 }
+2010-10-06 09:04:27,729 [WorkerThread-11] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373867729-7370 }
+2010-10-06 09:04:27,729 [WorkerThread-11] INFO  [ServiceProvider]: Service startRendering returned 1286373867729-7370
+2010-10-06 09:04:27,729 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373867729-7370 }
+2010-10-06 09:04:27,730 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373867729-7370 }
+2010-10-06 09:04:27,730 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:04:27,730 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:04:27,871 [WorkerThread-8] INFO  [ServerSession]: Posting event group of size: 5
+2010-10-06 09:04:27,914 [WorkerThread-17] INFO  [ServerSession]: Processing command object: {arguments=[1286373867392-5517], type=request, name=getRendering}
+2010-10-06 09:04:27,914 [WorkerThread-17] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373867392-5517] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:27,914 [WorkerThread-17] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373867392-5517 }
+2010-10-06 09:04:27,914 [WorkerThread-17] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373867392-5517 }
+2010-10-06 09:04:27,914 [WorkerThread-17] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@4abe4abe
+2010-10-06 09:04:27,936 [WorkerThread-9] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=115392}
+2010-10-06 09:04:27,942 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19935 } (encoding depth = 1): null
+2010-10-06 09:04:27,942 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19936 } (encoding depth = 1): null
+2010-10-06 09:04:27,945 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 273293 } (encoding depth = 1): null
+2010-10-06 09:04:27,945 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:27,945 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:27,947 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 2 } (encoding depth = 1): null
+2010-10-06 09:04:27,947 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@75217521
+2010-10-06 09:04:27,950 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667487 } (encoding depth = 1): null
+2010-10-06 09:04:27,950 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667489 } (encoding depth = 1): null
+2010-10-06 09:04:27,950 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667488 } (encoding depth = 1): null
+2010-10-06 09:04:27,950 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:04:28,077 [WorkerThread-18] INFO  [ServerSession]: Processing command object: {arguments=[1286373867729-7370], type=request, name=getRendering}
+2010-10-06 09:04:28,091 [WorkerThread-3] INFO  [ServerSession]: Posting event group of size: 5
+2010-10-06 09:04:28,189 [WorkerThread-18] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373867729-7370] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:04:28,201 [WorkerThread-15] INFO  [ServerSession]: Posting event group of size: 5
+2010-10-06 09:04:28,261 [WorkerThread-18] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373867729-7370 }
+2010-10-06 09:04:28,261 [WorkerThread-18] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373867729-7370 }
+2010-10-06 09:04:28,261 [WorkerThread-18] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@70327032
+2010-10-06 09:04:28,282 [WorkerThread-12] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=115392}
+2010-10-06 09:04:28,282 [WorkerThread-19] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=115392}
+2010-10-06 09:04:28,288 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19935 } (encoding depth = 1): null
+2010-10-06 09:04:28,288 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19936 } (encoding depth = 1): null
+2010-10-06 09:04:28,288 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19935 } (encoding depth = 1): null
+2010-10-06 09:04:28,288 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19936 } (encoding depth = 1): null
+2010-10-06 09:04:28,292 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 273293 } (encoding depth = 1): null
+2010-10-06 09:04:28,292 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:28,292 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 273293 } (encoding depth = 1): null
+2010-10-06 09:04:28,292 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:28,292 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:28,292 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:28,295 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 2 } (encoding depth = 1): null
+2010-10-06 09:04:28,295 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@6b6a6b6a
+2010-10-06 09:04:28,295 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 2 } (encoding depth = 1): null
+2010-10-06 09:04:28,295 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@79747974
+2010-10-06 09:04:28,298 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667489 } (encoding depth = 1): null
+2010-10-06 09:04:28,298 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667488 } (encoding depth = 1): null
+2010-10-06 09:04:28,298 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667489 } (encoding depth = 1): null
+2010-10-06 09:04:28,298 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667487 } (encoding depth = 1): null
+2010-10-06 09:04:28,298 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667488 } (encoding depth = 1): null
+2010-10-06 09:04:28,298 [WorkerThread-19] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:04:28,298 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667487 } (encoding depth = 1): null
+2010-10-06 09:04:28,298 [WorkerThread-12] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:04:29,488 [WorkerThread-4] INFO  [ServerSession]: Processing command object: {prop=marks, class=com.dn.gaverzicht.dms.models.Document, type=get, key=115392}
+2010-10-06 09:04:29,520 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40019 } (encoding depth = 0): null
+2010-10-06 09:04:29,520 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40010 } (encoding depth = 0): null
+2010-10-06 09:04:29,520 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40013 } (encoding depth = 0): null
+2010-10-06 09:04:29,520 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40009 } (encoding depth = 0): null
+2010-10-06 09:04:29,520 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40017 } (encoding depth = 0): null
+2010-10-06 09:04:29,520 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40018 } (encoding depth = 0): null
+2010-10-06 09:04:29,521 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40015 } (encoding depth = 0): null
+2010-10-06 09:04:29,521 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40014 } (encoding depth = 0): null
+2010-10-06 09:04:29,521 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40011 } (encoding depth = 0): null
+2010-10-06 09:04:29,521 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40020 } (encoding depth = 0): null
+2010-10-06 09:04:29,521 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40016 } (encoding depth = 0): null
+2010-10-06 09:04:29,521 [WorkerThread-4] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40012 } (encoding depth = 0): null
+2010-10-06 09:04:50,266 [AthenaTimer] WARN  [ReleaseLockedDocumentsTask]: Found 2 locked documents
+2010-10-06 09:04:50,333 [AthenaTimer] DEBUG [ReleaseLockedDocumentsTask]: Unlocking: { Document: 114273 } (locked by 3 since 2010-10-06 09:03:57.0)
+2010-10-06 09:04:50,333 [AthenaTimer] DEBUG [ReleaseLockedDocumentsTask]: Unlocking: { Document: 115392 } (locked by 5 since 2010-10-06 09:04:27.0)
+2010-10-06 09:04:50,432 [WorkerThread-4] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:50,588 [WorkerThread-10] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114273}
+2010-10-06 09:04:50,645 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19432 } (encoding depth = 1): null
+2010-10-06 09:04:50,645 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19433 } (encoding depth = 1): null
+2010-10-06 09:04:50,647 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:50,647 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:50,649 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:04:50,649 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@20952095
+2010-10-06 09:04:50,652 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664230 } (encoding depth = 1): null
+2010-10-06 09:04:50,652 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664229 } (encoding depth = 1): null
+2010-10-06 09:04:50,652 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664231 } (encoding depth = 1): null
+2010-10-06 09:04:50,652 [WorkerThread-10] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:04:50,689 [WorkerThread-6] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=115392}
+2010-10-06 09:04:50,694 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19936 } (encoding depth = 1): null
+2010-10-06 09:04:50,694 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19935 } (encoding depth = 1): null
+2010-10-06 09:04:50,697 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 273293 } (encoding depth = 1): null
+2010-10-06 09:04:50,697 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:50,697 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:50,700 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 2 } (encoding depth = 1): null
+2010-10-06 09:04:50,700 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@59bb59bb
+2010-10-06 09:04:50,702 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667488 } (encoding depth = 1): null
+2010-10-06 09:04:50,702 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667487 } (encoding depth = 1): null
+2010-10-06 09:04:50,702 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667489 } (encoding depth = 1): null
+2010-10-06 09:04:50,702 [WorkerThread-6] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:04:51,170 [WorkerThread-0] INFO  [ServerSession]: Processing command object: {prop=marks, class=com.dn.gaverzicht.dms.models.Document, type=get, key=114273}
+2010-10-06 09:04:51,189 [WorkerThread-16] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:51,211 [WorkerThread-13] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114273}
+2010-10-06 09:04:51,221 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19433 } (encoding depth = 1): null
+2010-10-06 09:04:51,221 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19432 } (encoding depth = 1): null
+2010-10-06 09:04:51,223 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:51,223 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:51,226 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:04:51,226 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@506f506f
+2010-10-06 09:04:51,229 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664231 } (encoding depth = 1): null
+2010-10-06 09:04:51,229 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664229 } (encoding depth = 1): null
+2010-10-06 09:04:51,229 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664230 } (encoding depth = 1): null
+2010-10-06 09:04:51,229 [WorkerThread-13] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:04:51,268 [WorkerThread-11] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=115392}
+2010-10-06 09:04:51,389 [WorkerThread-8] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:04:51,413 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19936 } (encoding depth = 1): null
+2010-10-06 09:04:51,464 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19935 } (encoding depth = 1): null
+2010-10-06 09:04:51,469 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 273293 } (encoding depth = 1): null
+2010-10-06 09:04:51,469 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:51,469 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:51,472 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 2 } (encoding depth = 1): null
+2010-10-06 09:04:51,472 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@282e282e
+2010-10-06 09:04:51,475 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667488 } (encoding depth = 1): null
+2010-10-06 09:04:51,475 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667487 } (encoding depth = 1): null
+2010-10-06 09:04:51,475 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667489 } (encoding depth = 1): null
+2010-10-06 09:04:51,475 [WorkerThread-11] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:04:51,488 [WorkerThread-17] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=114273}
+2010-10-06 09:04:51,504 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19433 } (encoding depth = 1): null
+2010-10-06 09:04:51,504 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19432 } (encoding depth = 1): null
+2010-10-06 09:04:51,506 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:51,506 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:51,508 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 1 } (encoding depth = 1): null
+2010-10-06 09:04:51,508 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@41954195
+2010-10-06 09:04:51,511 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664231 } (encoding depth = 1): null
+2010-10-06 09:04:51,511 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664230 } (encoding depth = 1): null
+2010-10-06 09:04:51,511 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 664229 } (encoding depth = 1): null
+2010-10-06 09:04:51,511 [WorkerThread-17] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:04:51,570 [WorkerThread-9] INFO  [ServerSession]: Processing command object: {class=com.dn.gaverzicht.dms.models.Document, type=get, key=115392}
+2010-10-06 09:04:51,729 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19935 } (encoding depth = 1): null
+2010-10-06 09:04:51,729 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentStatus - 19936 } (encoding depth = 1): null
+2010-10-06 09:04:51,732 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentGroup - 273293 } (encoding depth = 1): null
+2010-10-06 09:04:51,732 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:51,732 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 2): SingletonTargetSource for target: com.dn.gaverzicht.dms.dao.HibernateDaoImpl@78aa78aa
+2010-10-06 09:04:51,735 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.StoreImpl - 2 } (encoding depth = 1): null
+2010-10-06 09:04:51,735 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for null (encoding depth = 1): com.dn.gaverzicht.dms.models.EntityReference@71a471a4
+2010-10-06 09:04:51,737 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667487 } (encoding depth = 1): null
+2010-10-06 09:04:51,737 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667488 } (encoding depth = 1): null
+2010-10-06 09:04:51,737 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentProperty - 667489 } (encoding depth = 1): null
+2010-10-06 09:04:51,737 [WorkerThread-9] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.TypeDocument - 5 } (encoding depth = 1): null
+2010-10-06 09:05:54,773 [WorkerThread-11] INFO  [ServerSession]: Processing command object: {arguments=[114273, 1], type=request, name=startRendering}
+2010-10-06 09:05:54,854 [WorkerThread-11] INFO  [ServiceProvider]: Executing request startRendering with arguments [114273, 1] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:05:54,922 [WorkerThread-11] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373954922-6090 }
+2010-10-06 09:05:54,922 [WorkerThread-11] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373954922-6090 }
+2010-10-06 09:05:54,922 [WorkerThread-11] INFO  [ServiceProvider]: Service startRendering returned 1286373954922-6090
+2010-10-06 09:05:54,922 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373954922-6090 }
+2010-10-06 09:05:54,938 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373954922-6090 }
+2010-10-06 09:05:54,957 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:05:54,958 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:05:55,571 [WorkerThread-17] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:05:55,791 [WorkerThread-9] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:05:55,901 [WorkerThread-3] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:05:55,938 [WorkerThread-15] INFO  [ServerSession]: Processing command object: {arguments=[1286373954922-6090], type=request, name=getRendering}
+2010-10-06 09:05:55,954 [WorkerThread-15] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373954922-6090] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:05:55,954 [WorkerThread-15] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373954922-6090 }
+2010-10-06 09:05:55,954 [WorkerThread-15] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373954922-6090 }
+2010-10-06 09:05:55,954 [WorkerThread-15] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@60ba60ba
+2010-10-06 09:06:10,470 [WorkerThread-15] INFO  [ServerSession]: Processing command object: {arguments=[115392], type=request, name=getPageCount}
+2010-10-06 09:06:10,572 [WorkerThread-15] INFO  [ServiceProvider]: Executing request getPageCount with arguments [115392] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:06:10,635 [WorkerThread-15] INFO  [MultiRenderer]: Renderer to use: com.dn.gaverzicht.dms.render.RemotePdfRenderer@31ec31ec
+2010-10-06 09:06:10,643 [WorkerThread-15] DEBUG [RenderClient]: File has already been uploaded: files/documents/11/53/doc-92
+2010-10-06 09:06:10,648 [WorkerThread-19] INFO  [TcpClient]: Received reply for stream 8548: 1
+2010-10-06 09:06:10,659 [WorkerThread-15] INFO  [ServiceProvider]: Service getPageCount returned 1
+2010-10-06 09:06:10,956 [WorkerThread-7] INFO  [ServerSession]: Processing command object: {arguments=[114273, 0], type=request, name=startRendering}
+2010-10-06 09:06:10,956 [WorkerThread-7] INFO  [ServiceProvider]: Executing request startRendering with arguments [114273, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:06:10,960 [WorkerThread-7] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373970960-8671 }
+2010-10-06 09:06:10,960 [WorkerThread-7] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373970960-8671 }
+2010-10-06 09:06:10,960 [WorkerThread-7] INFO  [ServiceProvider]: Service startRendering returned 1286373970960-8671
+2010-10-06 09:06:10,960 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373970960-8671 }
+2010-10-06 09:06:10,961 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373970960-8671 }
+2010-10-06 09:06:10,961 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:06:10,961 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:06:11,439 [WorkerThread-5] INFO  [ServerSession]: Processing command object: {arguments=[115392, 0], type=request, name=startRendering}
+2010-10-06 09:06:11,540 [WorkerThread-5] INFO  [ServiceProvider]: Executing request startRendering with arguments [115392, 0] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:06:11,551 [WorkerThread-4] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:06:11,603 [WorkerThread-5] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373971603-7884 }
+2010-10-06 09:06:11,603 [WorkerThread-5] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373971603-7884 }
+2010-10-06 09:06:11,603 [WorkerThread-5] INFO  [ServiceProvider]: Service startRendering returned 1286373971603-7884
+2010-10-06 09:06:11,603 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373971603-7884 }
+2010-10-06 09:06:11,611 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373971603-7884 }
+2010-10-06 09:06:11,612 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:06:11,612 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:06:11,762 [WorkerThread-10] INFO  [ServerSession]: Posting event group of size: 4
+2010-10-06 09:06:11,871 [WorkerThread-6] INFO  [ServerSession]: Posting event group of size: 4
+2010-10-06 09:06:11,888 [WorkerThread-0] INFO  [ServerSession]: Processing command object: {arguments=[1286373970960-8671], type=request, name=getRendering}
+2010-10-06 09:06:11,888 [WorkerThread-0] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373970960-8671] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:06:11,888 [WorkerThread-0] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373970960-8671 }
+2010-10-06 09:06:11,888 [WorkerThread-0] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373970960-8671 }
+2010-10-06 09:06:11,888 [WorkerThread-0] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@1d621d62
+2010-10-06 09:06:12,623 [WorkerThread-13] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:06:12,709 [WorkerThread-8] INFO  [ServerSession]: Processing command object: {arguments=[1286373971603-7884], type=request, name=getRendering}
+2010-10-06 09:06:12,760 [WorkerThread-8] INFO  [ServiceProvider]: Executing request getRendering with arguments [1286373971603-7884] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:06:12,792 [WorkerThread-8] DEBUG [DocumentService]: Removing command from the list: { RenderingCommand - uid: 1286373971603-7884 }
+2010-10-06 09:06:12,792 [WorkerThread-8] INFO  [DocumentService]: Found completed rendering: { RenderingCommand - uid: 1286373971603-7884 }
+2010-10-06 09:06:12,792 [WorkerThread-8] INFO  [ServiceProvider]: Service getRendering returned java.io.FileInputStream@58f458f4
+2010-10-06 09:06:13,008 [WorkerThread-9] INFO  [ServerSession]: Processing command object: {arguments=[114273, 1], type=request, name=startRendering}
+2010-10-06 09:06:13,008 [WorkerThread-9] INFO  [ServiceProvider]: Executing request startRendering with arguments [114273, 1] on service object { ReflectionServiceObject -> com.dn.gaverzicht.dms.services.DocumentService@4a3a4a3a }
+2010-10-06 09:06:13,012 [WorkerThread-9] DEBUG [RenderingQueue]: Checking to add command to queue: { RenderingCommand - uid: 1286373973012-1582 }
+2010-10-06 09:06:13,012 [WorkerThread-9] DEBUG [RenderingQueue]: Adding command to queue: { RenderingCommand - uid: 1286373973012-1582 }
+2010-10-06 09:06:13,012 [WorkerThread-9] INFO  [ServiceProvider]: Service startRendering returned 1286373973012-1582
+2010-10-06 09:06:13,012 [RenderingQueue] INFO  [RenderingQueue]: Executing: { RenderingCommand - uid: 1286373973012-1582 }
+2010-10-06 09:06:13,013 [RenderingQueue] DEBUG [DocumentService]: Adding completed command: { RenderingCommand - uid: 1286373973012-1582 }
+2010-10-06 09:06:13,013 [RenderingQueue] INFO  [RenderingQueue]: Rendering next image...
+2010-10-06 09:06:13,013 [RenderingQueue] INFO  [RenderingQueue]: Waiting for next command...
+2010-10-06 09:06:13,701 [WorkerThread-3] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:06:13,911 [WorkerThread-1] INFO  [ServerSession]: Posting event group of size: 2
+2010-10-06 09:06:13,935 [WorkerThread-18] INFO  [ServerSession]: Processing command object: {prop=marks, class=com.dn.gaverzicht.dms.models.Document, type=get, key=115392}
+2010-10-06 09:06:13,941 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40017 } (encoding depth = 0): null
+2010-10-06 09:06:13,941 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40009 } (encoding depth = 0): null
+2010-10-06 09:06:13,941 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40019 } (encoding depth = 0): null
+2010-10-06 09:06:13,941 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40016 } (encoding depth = 0): null
+2010-10-06 09:06:13,941 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40018 } (encoding depth = 0): null
+2010-10-06 09:06:13,941 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40015 } (encoding depth = 0): null
+2010-10-06 09:06:13,941 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40011 } (encoding depth = 0): null
+2010-10-06 09:06:13,941 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40014 } (encoding depth = 0): null
+2010-10-06 09:06:13,941 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40010 } (encoding depth = 0): null
+2010-10-06 09:06:13,942 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40013 } (encoding depth = 0): null
+2010-10-06 09:06:13,942 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40012 } (encoding depth = 0): null
+2010-10-06 09:06:13,942 [WorkerThread-18] DEBUG [DmsObjectDeterminator]: Object to encode for ObjectId { com.dn.gaverzicht.dms.models.DocumentMark - 40020 } (encoding depth = 0): null
+2010-10-06 09:06:14,011 [WorkerThread-19] INFO  [ServerSession]: Posting event group of size: 2
