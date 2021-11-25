@@ -1,16 +1,17 @@
-(ns log-analyser.line-manager.line-manager)
+(ns log-analyser.line-manager.line-manager 
+  (:require [clojure.string :refer [includes?]]))
 
 (defn line-with-startrendering-info?
   [line]
-  (.contains line "Executing request startRendering"))
+  (includes? line "Executing request startRendering"))
 
 (defn line-with-startrendering-id-info?
   [line]
-  (.contains line "Service startRendering returned"))
+  (includes? line "Service startRendering returned"))
 
 (defn line-with-getrendering-info?
   [line]
-  (.contains line "Executing request getRendering"))
+  (includes? line "Executing request getRendering"))
 
 (defn relevant-line?
   [line]
