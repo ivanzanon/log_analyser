@@ -119,3 +119,6 @@ repo
   (when true (println "False!")))
 
 (print-things)
+
+
+(re-matches #"oi.*" "oi gente tudo bem?")
